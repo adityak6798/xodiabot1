@@ -1,0 +1,2 @@
+# xodiabot1
+This is a game playinng bot that takes as input a move entered by the user, and outputs the optimal move using MiniMax impllememnted with Alpha-Beta pruning, Iterative Deepening and a Principal-Variation Table. The bot pllays a game called Xodia, which was released as a game on a competition by PICT's Credenz 2017. This is also my effort to make a bot that was submitted to the competition Xodia held by them.
